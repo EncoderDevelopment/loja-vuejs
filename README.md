@@ -1,6 +1,14 @@
 # loja-vuejs
 Aplicação de loja virtual para edição de produtos de uma loja virtual fictícia
 
+# global install
+npm install -g json-server
+
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
 
 Descreição: Loja virtual,
 Aplicação de loja virtual para edição de produtos de uma loja virtual fictícia.
